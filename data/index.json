@@ -25,8 +25,15 @@
       "id": "Claude Code开发总结",
       "title": "基础命令",
       "type": "canvas",
-      "nodeCount": 2,
-      "edgeCount": 0
+      "nodeCount": 26,
+      "edgeCount": 3
+    },
+    {
+      "id": "思考方式 会话记录",
+      "title": "学习理解记忆闭环",
+      "type": "canvas",
+      "nodeCount": 3,
+      "edgeCount": 1
     },
     {
       "id": "消息中间件-Kafka",
@@ -34,6 +41,13 @@
       "type": "canvas",
       "nodeCount": 31,
       "edgeCount": 11
+    },
+    {
+      "id": "大模型开发基础概念",
+      "title": "对于Agent 的基础认识",
+      "type": "canvas",
+      "nodeCount": 29,
+      "edgeCount": 6
     },
     {
       "id": "智能体脚手架 LQ-000001",
