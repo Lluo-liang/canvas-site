@@ -46,7 +46,7 @@
       "id": "大模型开发基础概念",
       "title": "对于Agent 的基础认识",
       "type": "canvas",
-      "nodeCount": 29,
+      "nodeCount": 30,
       "edgeCount": 6
     },
     {
@@ -69,6 +69,13 @@
       "type": "canvas",
       "nodeCount": 22,
       "edgeCount": 1
+    },
+    {
+      "id": "ai-agent-book",
+      "title": "Agent = LLM + 上下文 + 工具",
+      "type": "canvas",
+      "nodeCount": 2,
+      "edgeCount": 0
     },
     {
       "id": "advanced canvas",
