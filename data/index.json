@@ -16,9 +16,9 @@
     },
     {
       "id": "ai-agent-book",
-      "title": "ai-agent-book",
+      "title": "Agent = LLM + 上下文 + 工具，而生产级 Agent 的真正竞争力在模型之外的 Harness（约束、验证、纠正）。",
       "type": "canvas",
-      "nodeCount": 0,
+      "nodeCount": 1,
       "edgeCount": 0
     },
     {
@@ -89,6 +89,13 @@
       "title": "朱元璋",
       "type": "canvas",
       "nodeCount": 9,
+      "edgeCount": 0
+    },
+    {
+      "id": "A6700",
+      "title": "挡位",
+      "type": "canvas",
+      "nodeCount": 7,
       "edgeCount": 0
     }
   ],

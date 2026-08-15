@@ -1,1 +1,1 @@
-{"nodes": [], "edges": [], "metadata": {"version": "1.0-1.0", "frontmatter": {}}}
+{"nodes": [{"id": "1efb1ddaed086401", "type": "text", "text": "Agent = LLM + 上下文 + 工具，而生产级 Agent 的真正竞争力在模型之外的 Harness（约束、验证、纠正）。\n\n- 模型固定时，扩展\"眼睛和手脚\"（上下文与工具）是提升任务表现最主要的系统工程手段\n- ", "styleAttributes": {}, "x": -840, "y": -820, "width": 980, "height": 380}], "edges": [], "metadata": {"version": "1.0-1.0", "frontmatter": {}}}
