@@ -16,9 +16,9 @@
     },
     {
       "id": "ai-agent-book",
-      "title": "Agent = LLM + 上下文 + 工具，而生产级 Agent 的真正竞争力在模型之外的 Harness（约束、验证、纠正）。",
+      "title": "第1章 AI Agent 入门 · 索引卡",
       "type": "canvas",
-      "nodeCount": 1,
+      "nodeCount": 2,
       "edgeCount": 0
     },
     {
