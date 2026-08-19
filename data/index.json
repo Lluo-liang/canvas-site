@@ -18,7 +18,7 @@
       "id": "ai-agent-book",
       "title": "第1章 AI Agent 入门 · 索引卡",
       "type": "canvas",
-      "nodeCount": 2,
+      "nodeCount": 8,
       "edgeCount": 0
     },
     {
@@ -64,13 +64,6 @@
       "edgeCount": 11
     },
     {
-      "id": "ai-agent-book 辅助理解白板",
-      "title": "这部分内容会可选摘录放到：",
-      "type": "canvas",
-      "nodeCount": 2,
-      "edgeCount": 0
-    },
-    {
       "id": "大模型开发基础概念",
       "title": "对于Agent 的基础认识",
       "type": "canvas",
@@ -110,12 +103,6 @@
     {
       "id": "软考2026 - 在线刷题",
       "title": "软考2026 - 在线刷题",
-      "type": "excalidraw",
-      "elementCount": -1
-    },
-    {
-      "id": "ai-agent-book 辅助理解白板",
-      "title": "ai-agent-book 辅助理解白板",
       "type": "excalidraw",
       "elementCount": -1
     },
