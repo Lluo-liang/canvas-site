@@ -22,13 +22,6 @@
       "edgeCount": 0
     },
     {
-      "id": "Claude Code开发总结",
-      "title": "基础命令",
-      "type": "canvas",
-      "nodeCount": 26,
-      "edgeCount": 3
-    },
-    {
       "id": "智能体脚手架 LQ-000001",
       "title": "当前主流的项目技术学习",
       "type": "canvas",
@@ -62,13 +55,6 @@
       "type": "canvas",
       "nodeCount": 31,
       "edgeCount": 11
-    },
-    {
-      "id": "大模型开发基础概念",
-      "title": "对于Agent 的基础认识",
-      "type": "canvas",
-      "nodeCount": 30,
-      "edgeCount": 6
     },
     {
       "id": "第2-1节_需求分析和架构设计 LQ-000001",
