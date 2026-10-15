@@ -64,6 +64,20 @@
       "edgeCount": 11
     },
     {
+      "id": "AgentController_sendMessage链路 20261016",
+      "title": "② AgentApi（trigger 门面）",
+      "type": "canvas",
+      "nodeCount": 19,
+      "edgeCount": 14
+    },
+    {
+      "id": "AgentController_streamMessage链路 20261016",
+      "title": "AgentController_streamMessage链路 20261016",
+      "type": "canvas",
+      "nodeCount": 0,
+      "edgeCount": 0
+    },
+    {
       "id": "第2-2节_拉取脚手架项目",
       "title": "Catalog",
       "type": "canvas",
