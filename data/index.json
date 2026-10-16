@@ -72,10 +72,10 @@
     },
     {
       "id": "AgentController_streamMessage链路 20261016",
-      "title": "AgentController_streamMessage链路 20261016",
+      "title": "③ emitAgentStream（worker 线程）",
       "type": "canvas",
-      "nodeCount": 0,
-      "edgeCount": 0
+      "nodeCount": 16,
+      "edgeCount": 10
     },
     {
       "id": "第2-2节_拉取脚手架项目",
