@@ -15,6 +15,13 @@
       "edgeCount": 1
     },
     {
+      "id": "sendMessage 链路 20261016",
+      "title": "② AgentApi（trigger 门面）",
+      "type": "canvas",
+      "nodeCount": 19,
+      "edgeCount": 14
+    },
+    {
       "id": "智能体脚手架 LQ-000001",
       "title": "当前主流的项目技术学习",
       "type": "canvas",
@@ -27,6 +34,13 @@
       "type": "canvas",
       "nodeCount": 27,
       "edgeCount": 9
+    },
+    {
+      "id": "streamMessage链路 20261016",
+      "title": "💡 保活与防抖",
+      "type": "canvas",
+      "nodeCount": 16,
+      "edgeCount": 10
     },
     {
       "id": "ai-agent-book",
@@ -64,31 +78,10 @@
       "edgeCount": 11
     },
     {
-      "id": "AgentController_sendMessage链路 20261016",
-      "title": "② AgentApi（trigger 门面）",
-      "type": "canvas",
-      "nodeCount": 19,
-      "edgeCount": 14
-    },
-    {
-      "id": "AgentController_streamMessage链路 20261016",
-      "title": "③ emitAgentStream（worker 线程）",
-      "type": "canvas",
-      "nodeCount": 16,
-      "edgeCount": 10
-    },
-    {
       "id": "第2-2节_拉取脚手架项目",
       "title": "Catalog",
       "type": "canvas",
       "nodeCount": 16,
-      "edgeCount": 0
-    },
-    {
-      "id": "大模型接口服务",
-      "title": "大模型接口服务",
-      "type": "canvas",
-      "nodeCount": 0,
       "edgeCount": 0
     },
     {
