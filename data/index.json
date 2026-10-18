@@ -36,6 +36,13 @@
       "edgeCount": 10
     },
     {
+      "id": "审批通过 approve链路分析 20261018",
+      "title": "审批通过 approve 链路分析",
+      "type": "canvas",
+      "nodeCount": 25,
+      "edgeCount": 6
+    },
+    {
       "id": "技术方案 sync-phone-component",
       "title": "sync-phone-component",
       "type": "canvas",
@@ -83,6 +90,13 @@
       "type": "canvas",
       "nodeCount": 31,
       "edgeCount": 11
+    },
+    {
+      "id": "AgentMessageFactory 代码实现 20261018",
+      "title": "AgentMessageFactory 策略树",
+      "type": "canvas",
+      "nodeCount": 38,
+      "edgeCount": 13
     },
     {
       "id": "第2-2节_拉取脚手架项目",
