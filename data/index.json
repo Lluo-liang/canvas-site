@@ -29,6 +29,13 @@
       "edgeCount": 2
     },
     {
+      "id": "submit 链路 20261018",
+      "title": "HarnessTaskController#submitTask 提交链路",
+      "type": "canvas",
+      "nodeCount": 31,
+      "edgeCount": 10
+    },
+    {
       "id": "技术方案 sync-phone-component",
       "title": "sync-phone-component",
       "type": "canvas",
