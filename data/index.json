@@ -22,6 +22,13 @@
       "edgeCount": 14
     },
     {
+      "id": "三级驱动结构 kich turn step 梳理 20261019",
+      "title": "ReactLoopAgent · 三级驱动 kick → turn → step",
+      "type": "canvas",
+      "nodeCount": 29,
+      "edgeCount": 12
+    },
+    {
       "id": "智能体脚手架 LQ-000001",
       "title": "当前主流的项目技术学习",
       "type": "canvas",
@@ -32,14 +39,14 @@
       "id": "submit 链路 20261018",
       "title": "HarnessTaskController#submitTask 提交链路",
       "type": "canvas",
-      "nodeCount": 31,
-      "edgeCount": 10
+      "nodeCount": 32,
+      "edgeCount": 11
     },
     {
       "id": "审批通过 approve链路分析 20261018",
-      "title": "审批通过 approve 链路分析",
+      "title": "① HarnessApprovalCommandController#approve",
       "type": "canvas",
-      "nodeCount": 25,
+      "nodeCount": 26,
       "edgeCount": 6
     },
     {
