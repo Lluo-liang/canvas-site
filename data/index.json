@@ -8,11 +8,67 @@
       "edgeCount": 0
     },
     {
+      "id": "三级驱动结构 kich turn step 梳理 20261019",
+      "title": "ReactLoopAgent · 三级驱动 kick → turn → step",
+      "type": "canvas",
+      "nodeCount": 29,
+      "edgeCount": 12
+    },
+    {
       "id": "第2-1节_需求分析和架构设计 LQ-000001",
       "title": "模型接入",
       "type": "canvas",
       "nodeCount": 22,
       "edgeCount": 1
+    },
+    {
+      "id": "白板 canvas",
+      "title": "主体提供了一个无限大小的画布空间，可将卡片（note）、图片、链接、网页片段等元素自由摆放。",
+      "type": "canvas",
+      "nodeCount": 19,
+      "edgeCount": 9
+    },
+    {
+      "id": "AgentMessageFactory 代码实现 20261018",
+      "title": "AgentMessageFactory 策略树",
+      "type": "canvas",
+      "nodeCount": 38,
+      "edgeCount": 13
+    },
+    {
+      "id": "审批通过 approve链路分析 20261018",
+      "title": "① HarnessApprovalCommandController#approve",
+      "type": "canvas",
+      "nodeCount": 26,
+      "edgeCount": 6
+    },
+    {
+      "id": "advanced canvas",
+      "title": "advanced canvas",
+      "type": "canvas",
+      "nodeCount": 5,
+      "edgeCount": 2
+    },
+    {
+      "id": "ai-agent-book",
+      "title": "第1章 AI Agent 入门 · 索引卡",
+      "type": "canvas",
+      "nodeCount": 10,
+      "edgeCount": 0
+    },
+    {
+      "id": "思考方式 会话记录",
+      "title": "学习理解记忆闭环",
+      "type": "canvas",
+      "nodeCount": 3,
+      "edgeCount": 1
+    },
+    {
+      "id": "技术方案 sync-phone-component",
+      "title": "sync-phone-component",
+      "type": "canvas",
+      "nodeCount": 27,
+      "edgeCount": 9
     },
     {
       "id": "sendMessage 链路 20261016",
@@ -22,11 +78,11 @@
       "edgeCount": 14
     },
     {
-      "id": "三级驱动结构 kich turn step 梳理 20261019",
-      "title": "ReactLoopAgent · 三级驱动 kick → turn → step",
+      "id": "第2-2节_拉取脚手架项目",
+      "title": "Catalog",
       "type": "canvas",
-      "nodeCount": 29,
-      "edgeCount": 12
+      "nodeCount": 16,
+      "edgeCount": 0
     },
     {
       "id": "智能体脚手架 LQ-000001",
@@ -43,55 +99,6 @@
       "edgeCount": 11
     },
     {
-      "id": "审批通过 approve链路分析 20261018",
-      "title": "① HarnessApprovalCommandController#approve",
-      "type": "canvas",
-      "nodeCount": 26,
-      "edgeCount": 6
-    },
-    {
-      "id": "技术方案 sync-phone-component",
-      "title": "sync-phone-component",
-      "type": "canvas",
-      "nodeCount": 27,
-      "edgeCount": 9
-    },
-    {
-      "id": "streamMessage链路 20261016",
-      "title": "💡 保活与防抖",
-      "type": "canvas",
-      "nodeCount": 16,
-      "edgeCount": 10
-    },
-    {
-      "id": "ai-agent-book",
-      "title": "第1章 AI Agent 入门 · 索引卡",
-      "type": "canvas",
-      "nodeCount": 10,
-      "edgeCount": 0
-    },
-    {
-      "id": "白板 canvas",
-      "title": "主体提供了一个无限大小的画布空间，可将卡片（note）、图片、链接、网页片段等元素自由摆放。",
-      "type": "canvas",
-      "nodeCount": 19,
-      "edgeCount": 9
-    },
-    {
-      "id": "advanced canvas",
-      "title": "advanced canvas",
-      "type": "canvas",
-      "nodeCount": 5,
-      "edgeCount": 2
-    },
-    {
-      "id": "思考方式 会话记录",
-      "title": "学习理解记忆闭环",
-      "type": "canvas",
-      "nodeCount": 3,
-      "edgeCount": 1
-    },
-    {
       "id": "消息中间件-Kafka",
       "title": "Broker & Cluster",
       "type": "canvas",
@@ -99,18 +106,11 @@
       "edgeCount": 11
     },
     {
-      "id": "AgentMessageFactory 代码实现 20261018",
-      "title": "AgentMessageFactory 策略树",
-      "type": "canvas",
-      "nodeCount": 38,
-      "edgeCount": 13
-    },
-    {
-      "id": "第2-2节_拉取脚手架项目",
-      "title": "Catalog",
+      "id": "streamMessage链路 20261016",
+      "title": "💡 保活与防抖",
       "type": "canvas",
       "nodeCount": 16,
-      "edgeCount": 0
+      "edgeCount": 10
     },
     {
       "id": "A6700",
@@ -129,20 +129,14 @@
   ],
   "excalidraw": [
     {
-      "id": "软考2026 - 在线刷题",
-      "title": "软考2026 - 在线刷题",
+      "id": "excalidraw 幻灯片",
+      "title": "excalidraw 幻灯片",
       "type": "excalidraw",
       "elementCount": -1
     },
     {
       "id": "功能模块划分",
       "title": "功能模块划分",
-      "type": "excalidraw",
-      "elementCount": -1
-    },
-    {
-      "id": "excalidraw 幻灯片",
-      "title": "excalidraw 幻灯片",
       "type": "excalidraw",
       "elementCount": -1
     }
